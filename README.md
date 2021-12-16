@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pruthuvi9
 - 👀 I’m interested in learning how to write code.
-- 🌱 I’m currently learning C on CS50x.
+- 🌱 I’m currently learning C on CS50x, Web Development on FreeCodeCamp.org.
 - 💞️ I’m looking to collaborate on beginner projects.
 - 📫 How to reach me: through my GitHub profile.
 
